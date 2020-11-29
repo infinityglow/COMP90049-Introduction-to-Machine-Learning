@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Kay}1986]{Kay86}
+Martin Kay.
+\newblock 1986.
+\newblock Parsing in functional unification grammar.
+\newblock In B.~J. Grosz, K.~{Sp\"arck Jones}, and B.~L. Webber, editors, {\em
+  Readings in Natural Language Processing}, pages 125--138. Morgan Kaufmann
+  Publishers, Los Altos.
+
+\bibitem[\protect\citename{Mosteller and Wallace}1964]{MosWal64}
+Fredrick Mosteller and David Wallace.
+\newblock 1964.
+\newblock {\em Inference and Disputed Authorship: The Federalist}.
+\newblock Addison-Wesley, Reading, Massachusetts.
+
+\bibitem[\protect\citename{{Sp\"arck Jones}}1972]{Spa72}
+Karen {Sp\"arck Jones}.
+\newblock 1972.
+\newblock A statistical interpretation of term specificity and its application
+  in retrieval.
+\newblock {\em Journal of Documentation}, 28(1):11--21.
+
+\bibitem[\protect\citename{{Wikipedia contributors}}nd]{WikiMisspell}
+{Wikipedia contributors}.
+\newblock n.d.
+\newblock {Wikipedia:Lists} of common misspellings.
+\newblock In {\em Wikipedia, The Free Encyclopedia}.
+\newblock
+  https://en.wikipedia.org/w/index.php?title=\\Wikipedia:Lists\_of\_common\_misspellings\&\\oldid=813410985.
+
+\end{thebibliography}

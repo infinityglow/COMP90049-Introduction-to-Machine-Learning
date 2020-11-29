@@ -1,0 +1,127 @@
+\documentclass[11pt]{article}
+\usepackage{colacl}
+\sloppy
+
+
+
+\title{Paper Template for COMP90049 Report}
+\author
+{Anonymous}
+
+
+
+\begin{document}
+\maketitle
+
+
+%\begin{abstract}
+%This is a \LaTeX\ sample for your paper.
+%You shouldn't plan to include an abstract for a paper of this length.
+%\end{abstract}
+
+\section{Introduction}
+
+This is a report template, suitable for \LaTeX (it doesn't model very much).
+Don't use fonts smaller than this one (Times 11). Don't include a title page,
+table of contents, abstract, or other similar front matter.
+
+Please don't include your name and/or student ID in the title or header; 
+your report should be anonymised for the reviewing process. Don't forget
+that you must cite the corpus \cite{WikiMisspell}.
+
+
+\section{Section}
+
+Text,\footnote{Footnote text} with footnotes at bottom of page.
+
+
+\subsection{Subsection}
+
+Text of the subsection with citations such as 
+\newcite{Spa72}, \newcite{Kay86} and \newcite{MosWal64}.
+Note that the citation style is defined in the accompanying
+style file; it is similar to AAAI house style. You may use
+other (formal) citation styles if you prefer.
+
+ 
+\subsubsection{Subsubsection}
+
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection (see Table~\ref{table1}).
+
+\begin{table}[h]
+ \begin{center}
+\begin{tabular}{|l|l|}
+
+      \hline
+      Corpus & Features\\
+      \hline\hline
+      AAA & 1M words\\
+      BBB & spoken corpus (expensive)\\
+      CCC & 2M words\\
+        & free (to academics)\\
+      \hline
+
+\end{tabular}
+\caption{The caption of the table}\label{table1}
+ \end{center}
+\end{table}
+
+
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+Text of the subsubsection.
+
+
+\section{Section}
+
+Filling text; filling text.
+
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+Filling text; filling text.
+
+\section{Section}
+
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+Text. Text. More text. Text. Text.
+Text. Text. Text. Text. Text.
+
+Text. Text. Text. Text. Text.
+Text. Text. Text. Text. Text.
+
+\section{Conclusions}
+
+Concluding text.
+
+\bibliographystyle{acl}
+\bibliography{sample}
+
+\end{document}

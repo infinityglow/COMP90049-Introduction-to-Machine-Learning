@@ -1,0 +1,15 @@
+# Attributes for the stroke_update.csv dataset:
+1 avg_glucose_level - patient's average Glucose level (Numeric: from 55.01 to 271.74)
+2 bmi - patient's body mass index (Numeric: from 11 to 70.3)
+3 age - patient's age (Numeric: from 10 to 82)
+4 gender - patient's gender (binary: "Female" or "Male")
+5 hypertension - Did patient have high blood pressure? (binary: "0" - No or "1" - Yes)
+6 heart_disease - Did patient have heart disease? (binary: "0" - No or "1" - Yes)
+7 ever_married - Have patient been ever married? (binary: "No" or "Yes")
+8 work_type - patient's job (nominal: 'Govt_job', 'Private', 'Self-employed', 'children', 'Never_worked')
+9 Residence_type - patient's residence (binary: 'Rural', 'Urban')
+10 smoking_status - patient's smoking history (nominal: 'formerly smoked', 'never smoked', 'smokes')
+
+# Class for the stroke_update.csv dataset:
+11 stroke - Did patient have stroke? (binary: "0" - No or "1" - Yes)
+
